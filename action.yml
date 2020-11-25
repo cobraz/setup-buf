@@ -1,4 +1,4 @@
-name: 'Setup buf'
+name: 'Setup buf (Fork)'
 description: >
   Install buf for your GitHub Action workflows.
 
